@@ -1,0 +1,9 @@
+{
+  "name":"enig",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "iron_worker",
+    "logentries"
+  ]
+}
